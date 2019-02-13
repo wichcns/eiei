@@ -13,7 +13,7 @@ namespace WebApplication2
     {
         void Application_Start(object sender, EventArgs e)
         {
-            Hello world 
+            Hello world kuy 
             // Code that runs on application startup
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
